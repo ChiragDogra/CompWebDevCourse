@@ -1,0 +1,15 @@
+{
+  "name": "whetherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "whether.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -L whether.js"
+  },
+  "author": "Chinu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
